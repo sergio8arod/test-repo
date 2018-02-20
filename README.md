@@ -1,6 +1,6 @@
 # test-repo
-##Test
-###tertiary heading
+## Test
+### tertiary heading
 
 * First item in list
 * Second
